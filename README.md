@@ -1,0 +1,1 @@
+realizar un software de liquidacion de haberes de un empleado(nomre, dni, sueldo base). El sistema debe permitir calcular el pago final de los diferentes trabajadores: vendedores (suman comisiones) y directivos (suman bonos), procesando una lista mixta de todo el personal con el monto a depositar
